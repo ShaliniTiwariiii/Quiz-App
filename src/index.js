@@ -1,13 +1,37 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import Css from './Quizz/CSSquizz/Css'
+import JSquizz from './Quizz/JSquiz/JSquizz'
+
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter, createBrowserRouter,RouterProvider,Route,Routes } from 'react-router-dom';
+import Home from './Quizz/Home/Home';
+import ReactQ from './Quizz/ReactQuizz/ReactQ';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
+
 root.render(
   <React.StrictMode>
-    <App />
+   
+<BrowserRouter>
+
+<Routes >
+<Route
+path='/' element={<Home/>}>
+  </Route>
+  <Route
+path='/js' element={<JSquizz/>}>
+  </Route>
+  <Route
+path='/css' element={<Css/>}>
+  </Route>
+  <Route
+path='/react' element={<ReactQ/>}>
+  </Route>
+</Routes>
+</BrowserRouter>
+  
   </React.StrictMode>
 );
 
