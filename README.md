@@ -16,12 +16,12 @@ And this app can  read in Hindi and English for those who cannot read or see . A
 
 
 ## Dependencies 
-|SNo| Dependencies |  Using For |
+|SNo| Dependencies |  UsingFor |
 |1| react-speech-kit |  reading the text|
 |2| recoil |  managing the state |
 |3| Sass | styling |
 |4|react-carousel-minima | carousel | 
-|5| mui/icons-material|icons|
+|5| mui icons-material|icons|
 
 
 ### `npm run eject`
