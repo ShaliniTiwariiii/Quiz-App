@@ -17,6 +17,7 @@ And this app can  read in Hindi and English for those who cannot read or see . A
 
 ## Dependencies 
 |SNo| Dependencies |  UsingFor |
+|-|-|-|
 |1| react-speech-kit |  reading the text|
 |2| recoil |  managing the state |
 |3| Sass | styling |
