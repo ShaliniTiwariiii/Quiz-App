@@ -16,7 +16,7 @@ And this app can  read in Hindi and English for those who cannot read or see . A
 
 
 ## Dependencies 
-
+|-|
 react-speech-kit - For reading the text
 recoil - For managing the state
 Sass - For styling
