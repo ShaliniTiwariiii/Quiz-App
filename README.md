@@ -17,13 +17,12 @@ And this app can  read in Hindi and English for those who cannot read or see . A
 
 ## Dependencies 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+react-speech-kit - For reading the text
+recoil - For managing the state
+Sass - For styling
+react-carousel-minimal - For carousel
+@mui/icons-material - For icons
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
