@@ -36,9 +36,9 @@ This app has summary of all 18 chapters of Bhagwatgita with the sloks.
 
 ## Resources used in this project.
 
-[react-speech-kit](https://www.geeksforgeeks.org/create-a-text-to-speech-application-using-reactjs/).
+Geeksforgeeks for [react-speech-kit](https://www.geeksforgeeks.org/create-a-text-to-speech-application-using-reactjs/).
 
-[sass](https://youtu.be/tEQOdFgUXI4)
+YouTube for [sass](https://youtu.be/tEQOdFgUXI4)
 
 
 ### Code Splitting
