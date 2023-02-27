@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 
 
-## Discription
+## Description
 The motive of this project is to be aware of our generation with gita in a short time. 
 And this app can  read in Hindi and English for those who cannot read or see . Along with it is pocket friendly.
 This app has summary of all 18 chapters of Bhagwatgita with the sloks.
