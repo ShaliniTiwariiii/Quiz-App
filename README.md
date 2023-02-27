@@ -27,7 +27,8 @@ And this app can  read in Hindi and English for those who cannot read or see . A
 
 ## APIs used in this project
 
-[API for summary of bhagwatgweeta](https://bhagavadgitaapi.in/chapters/?api_key=b11f734eb00d87849)
+[API for summary of bhagwatgweeta](https://bhagavadgitaapi.in/chapters/?api_key=b11f734eb00d87849).
+
 [API for sloks](https://bhagavadgitaapi.in/slok/1/1/) 
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
