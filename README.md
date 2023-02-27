@@ -25,9 +25,9 @@ And this app can  read in Hindi and English for those who cannot read or see . A
 |5| mui icons-material|icons|
 
 
-### `npm run eject`
+## APIs used in this project
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[API for summary of bhagwatgweeta](https://bhagavadgitaapi.in/chapters/?api_key=b11f734eb00d87849)
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
