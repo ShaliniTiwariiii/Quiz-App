@@ -40,6 +40,8 @@ Geeksforgeeks for [react-speech-kit](https://www.geeksforgeeks.org/create-a-text
 
 YouTube for [sass](https://youtu.be/tEQOdFgUXI4)
 
+stack overflow for [solving my errors](https://stackoverflow.com/)
+
 
 ### Code Splitting
 
